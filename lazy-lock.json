@@ -1,5 +1,7 @@
 {
+  "catppuccin": { "branch": "main", "commit": "18bab5ec4c782cdf7d7525dbe89c60bfa02fc195" },
   "lazy.nvim": { "branch": "main", "commit": "077102c5bfc578693f12377846d427f49bc50076" },
-  "tokyonight.nvim": { "branch": "main", "commit": "b0e7c7382a7e8f6456f2a95655983993ffda745e" },
+  "vim-magma": { "branch": "master", "commit": "c689e9d859b041f3925784e076dd75d4f41cf0dc" },
+  "vim-sensible": { "branch": "master", "commit": "0ce2d843d6f588bb0c8c7eec6449171615dc56d9" },
   "vimtex": { "branch": "master", "commit": "00c23ab836dceeffadc05d0c4f2ceca1e02810a4" }
 }
