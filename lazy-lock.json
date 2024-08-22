@@ -1,7 +1,7 @@
 {
-  "catppuccin": { "branch": "main", "commit": "18bab5ec4c782cdf7d7525dbe89c60bfa02fc195" },
+  "catppuccin": { "branch": "main", "commit": "4fd72a9ab64b393c2c22b168508fd244877fec96" },
   "lazy.nvim": { "branch": "main", "commit": "077102c5bfc578693f12377846d427f49bc50076" },
   "vim-magma": { "branch": "master", "commit": "c689e9d859b041f3925784e076dd75d4f41cf0dc" },
   "vim-sensible": { "branch": "master", "commit": "0ce2d843d6f588bb0c8c7eec6449171615dc56d9" },
-  "vimtex": { "branch": "master", "commit": "00c23ab836dceeffadc05d0c4f2ceca1e02810a4" }
+  "vimtex": { "branch": "master", "commit": "76ef99f73a5ff10be59836a4af4f928eaa8ad284" }
 }
